@@ -72,7 +72,6 @@ jupyterthemes==0.20.0
 keras==2.9.0
 Keras-Preprocessing==1.1.2
 Kivy==2.0.0
-kivy-deps.angle==0.3.0
 kivy-deps.glew==0.3.0
 kivy-deps.sdl2==0.3.1
 Kivy-Garden==0.1.4
