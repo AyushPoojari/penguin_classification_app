@@ -70,12 +70,6 @@ jupyterlab-server==2.8.2
 jupyterlab-widgets==1.1.0
 jupyterthemes==0.20.0
 keras==2.9.0
-Keras-Preprocessing==1.1.2
-Kivy==2.0.0
-kivy-deps.glew==0.3.0
-kivy-deps.sdl2==0.3.1
-Kivy-Garden==0.1.4
-kivymd==0.104.2
 kiwisolver==1.3.2
 lesscpy==0.15.0
 libclang==14.0.1
