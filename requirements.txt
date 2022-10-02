@@ -125,7 +125,6 @@ Pygments==2.10.0
 Pympler==1.0.1
 pyOpenSSL==22.0.0
 pyparsing==2.4.7
-pypiwin32==223
 pyrsistent==0.18.1
 PySocks==1.7.1
 pyspark==3.2.0
